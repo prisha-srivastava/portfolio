@@ -1,2 +1,8 @@
 title: Welcome to my Portfolio Website!
+logo: "/images/prisha pic portfolio.png" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <a href="https://www.linkedin.com/in/prisha-srivastava/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
+  <br><br>
+  <a href="prishas.2501@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  
 theme: jekyll-theme-minimal
