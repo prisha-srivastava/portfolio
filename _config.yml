@@ -1,15 +1,8 @@
 # Basic Site Settings
-title                    : "Prisha Srivastava"
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-  # Biographic information
+title         : "Prisha Srivastava"
 logo          : "/images/profile pic.png"
-name             : "Prisha Srivastava"
-description              : "Post Graduate Student pursuing Masters in Business Analytics from University of Cincinnati.
-<a href="https://www.linkedin.com/in/prisha-srivastava/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
-  <a href="mailto:prishas.2501@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>"
+name          : "Prisha Srivastava"
+description   : "Post Graduate Student pursuing Masters in Business Analytics from University of Cincinnati."
   
 theme: jekyll-theme-minimal
 
