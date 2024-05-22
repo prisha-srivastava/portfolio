@@ -18,7 +18,7 @@ email            : prishas.2501@gmail.com
   # Social media
 linkedin         : prisha-srivastava
   
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-minimal
 
 #remote_theme: pages-themes/minimal@v0.2.0
 #plugins:
