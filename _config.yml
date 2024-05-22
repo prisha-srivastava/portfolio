@@ -7,18 +7,19 @@ title                    : "Prisha Srivastava"
   # Biographic information
 logo          : "/images/profile pic.png"
 name             : "Prisha Srivastava"
-pronouns         : "she/her" 
-bio              : "Post Graduate Student pursuing Masters in Business Analytics from University of Cincinnati."
-location         : "India"
-email            : "prishas.2501@gmail.com" 
+pronouns         : she/her 
+description              : "Post Graduate Student pursuing Masters in Business Analytics from University of Cincinnati."
+location         : India
+email            : prishas.2501@gmail.com
 
   # Academic websites
 
   
   # Social media
-linkedin         : "https://www.linkedin.com/in/prisha-srivastava/"
+linkedin         : prisha-srivastava
   
+theme: jekyll-theme-chirpy
 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+#remote_theme: pages-themes/minimal@v0.2.0
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
