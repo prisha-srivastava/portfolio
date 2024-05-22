@@ -9,14 +9,8 @@ logo          : "/images/profile pic.png"
 name             : "Prisha Srivastava"
 pronouns         : she/her 
 description              : "Post Graduate Student pursuing Masters in Business Analytics from University of Cincinnati."
-location         : India
-email            : prishas.2501@gmail.com
-
-  # Academic websites
-
-  
-  # Social media
-linkedin         : prisha-srivastava
+<a href="https://www.linkedin.com/in/prisha-srivastava/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
+  <a href="mailto:prishas.2501@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   
 theme: jekyll-theme-minimal
 
