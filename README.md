@@ -1,1 +1,4 @@
-# portfolio
+# About Me
+I am Prisha Srivastava, a data professional and an incoming graduate student at the University of Cincinnati pursuing my Masters in Business Analytics and Data Science.With prior experience at Tata Consultancy Services as a developer in the BFSI domain (serving clients like Llyods Banking Group,London,UK), I've refined my skills in closely collaborating with banking clients. My responsibilities included gathering requirements, incident management, providing production support, addressing complex business challenges, and delivering tailored reports to meet their specific needs. Proficient in data modeling, visualization, and analysis, I also specialize in extracting valuable insights from extensive datasets. With a creative problem-solving mindset and a commitment to staying ahead of the latest trends and advancements in Data Science and Big Data technologies, I continually seek out opportunities for growth and innovation.
+
+# Projects
