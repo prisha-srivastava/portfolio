@@ -11,7 +11,7 @@ My portfolio showcases my ability to extract valuable insights from data, and I'
 
 My educational journey began with a Bachelor of Technology in Electronics & Communications Engineering from Jaypee Institute of Information Technology, Noida. This strong technical foundation has paved the way for my upcoming Master's in Business Analytics and Data Science at the University of Cincinnati, starting this August.
 
-### Recent Work Experience:
+## Recent Work Experience:
 
 #### Risk Analyst Intern at [CyberBoxer.AI](https://cyberboxer.com/):
 In my recent role at CyberBoxer.AI, I played a crucial role in analyzing risks within insurance proposals. By leveraging actuarial, statistical, and background information, I helped determine policy terms and calculate premiums. My proficiency in location analysis and CAT modeling provided comprehensive risk assessments, and I actively contributed to process improvement discussions through data formatting and cleansing techniques.
