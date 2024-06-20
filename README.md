@@ -1,11 +1,11 @@
 # Welcome to My Professional Portfolio!✨
 
 
-✉️: [prishas.2501@gmail.com](mailto:prishas.2501@gmail.com) | [Linkedin](https://www.linkedin.com/in/prisha-srivastava)
+✉️: [prishas.2501@gmail.com](mailto:prishas.2501@gmail.com) | ✉️: [srivasp2@mail.uc.edu](mailto:srivasp2@mail.uc.edu)|[Linkedin](https://www.linkedin.com/in/prisha-srivastava)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I am Prisha Srivastava, an aspiring data scientist with a passion for turning complex problems into elegant solutions. I'm excited to commence my upcoming **Master's in Business Analytics and Data Science** degree at the [University of Cincinnati](https://www.uc.edu/).
+I am Prisha Srivastava, an aspiring data analyst with a passion for turning complex problems into elegant solutions. I'm excited to commence my upcoming **Master's in Business Analytics and Data Science** degree at the [University of Cincinnati](https://www.uc.edu/).
 <br><br>
 My portfolio showcases my ability to extract valuable insights from data, and I'm eager to collaborate on projects that make a real impact. Let's connect and unleash the power of data together!🤝
 
