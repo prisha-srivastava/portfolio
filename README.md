@@ -5,15 +5,16 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I am Prisha Srivastava, an aspiring data analyst with a passion for turning complex problems into elegant solutions. I'm excited to commence my upcoming **Master's in Business Analytics and Data Science** degree at the [University of Cincinnati](https://www.uc.edu/).
+I am Prisha Srivastava, an aspiring data analyst with a passion for turning complex problems into elegant solutions. I'm currently pursuing my **Master's in Business Analytics and Data Science** degree at the [University of Cincinnati](https://www.uc.edu/).
 <br><br>
 My portfolio showcases my ability to extract valuable insights from data, and I'm eager to collaborate on projects that make a real impact. Let's connect and unleash the power of data together!🤝
 
-My educational journey began with a Bachelor of Technology in Electronics & Communications Engineering from Jaypee Institute of Information Technology, Noida. This strong technical foundation has paved the way for my upcoming Master's in Business Analytics and Data Science at the University of Cincinnati, starting this August.
+My educational journey began with a Bachelor of Technology in Electronics & Communications Engineering from Jaypee Institute of Information Technology, Noida. This solid technical background fuels my current focus on mastering business analytics and shaping the future of data-driven strategies.
+
 
 ## Recent Work Experience:
 
-#### Risk Analyst Intern at [CyberBoxer.AI](https://cyberboxer.com/):
+#### Risk Analyst  at [CyberBoxer.AI](https://cyberboxer.com/):
 In my recent role at CyberBoxer.AI, I played a crucial role in analyzing risks within insurance proposals. By leveraging actuarial, statistical, and background information, I helped determine policy terms and calculate premiums. My proficiency in location analysis and CAT modeling provided comprehensive risk assessments, and I actively contributed to process improvement discussions through data formatting and cleansing techniques.
 
 #### Assistant System Engineer at [Tata Consultancy Services](https://www.tcs.com/):
@@ -83,6 +84,14 @@ I supported a consulting firm's market sizing case for a new pharmaceutical prod
 
 **Certifications:**  
 - **Google Advanced Data Analytics Professional Certificate:** Certified in advanced data analytics techniques and applications.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Hobbies and Interests 🎨 :
+
+Creativity has always been my passion, especially through painting. From sketching and watercolor to acrylic, oil, texture, and glass painting, I've explored it all! 🎨
+
+Lately, I’m also diving into gardening 🌿 and building a collection of indoor house plants. I love the fresh, calming vibe they bring into my space.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
