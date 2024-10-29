@@ -1,55 +1,60 @@
 # Welcome to My Professional Portfolio!✨
 
 
-✉️: [prishas.2501@gmail.com](mailto:prishas.2501@gmail.com) | ✉️: [srivasp2@mail.uc.edu](mailto:srivasp2@mail.uc.edu)|[Linkedin](https://www.linkedin.com/in/prisha-srivastava)
+✉️: [prishas.2501@gmail.com](mailto:prishas.2501@gmail.com) | ✉️: [srivasp2@mail.uc.edu](mailto:srivasp2@mail.uc.edu)|    [Linkedin](https://www.linkedin.com/in/prisha-srivastava)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I am Prisha Srivastava, an aspiring data analyst with a passion for turning complex problems into elegant solutions. I'm currently pursuing my **Master's in Business Analytics and Data Science** degree at the [University of Cincinnati](https://www.uc.edu/).
-<br><br>
+
+Hi there! I’m Prisha Srivastava, a data explorer and solution-finder fascinated by the power of data to shape smarter decisions and impactful stories. Currently pursuing my **Master’s in Business Analytics at the University of Cincinnati**, I’m dedicated to turning insights into results, one dataset at a time.
+
 My portfolio showcases my ability to extract valuable insights from data, and I'm eager to collaborate on projects that make a real impact. Let's connect and unleash the power of data together!🤝
 
-My educational journey began with a Bachelor of Technology in Electronics & Communications Engineering from Jaypee Institute of Information Technology, Noida. This solid technical background fuels my current focus on mastering business analytics and shaping the future of data-driven strategies.
+With a foundation in Electronics & Communications Engineering, I bring both technical depth and analytical rigor to my work and am eager to connect with others who share my enthusiasm for data-driven progress.
 
+---
 
-## Recent Work Experience:
+## Professional Highlights 💡:
 
-#### Risk Analyst  at [CyberBoxer.AI](https://cyberboxer.com/):
-In my recent role at CyberBoxer.AI, I played a crucial role in analyzing risks within insurance proposals. By leveraging actuarial, statistical, and background information, I helped determine policy terms and calculate premiums. My proficiency in location analysis and CAT modeling provided comprehensive risk assessments, and I actively contributed to process improvement discussions through data formatting and cleansing techniques.
+#### Project Analyst | Neo Initiative
+In my current role, I collaborate with a minority-owned business to uncover insights from their sales data, developing models that highlight key trends and inform growth strategies. I automate SEO tracking to enhance engagement and create customer-focused forecasting tools that drive retention initiatives. My work is centered on empowering informed decision-making and fostering long-term growth.
 
-#### Assistant System Engineer at [Tata Consultancy Services](https://www.tcs.com/):
-Prior to CyberBoxer.AI, I worked as an Assistant System Engineer at Tata Consultancy Services. My responsibilities included gathering requirements, incident management, providing production support, addressing complex business challenges, and delivering tailored reports to meet their specific needs. Here, I managed client requirements in the BFSI (Banking, Financial Services, and Insurance) domain, collaborating with the largest UK retail and commercial financial services provider.  My efforts resulted in a 95% customer satisfaction rating and improved data accuracy. I excelled in cross-functional teams, delivering actionable insights, implementing data quality and governance processes, and generating investment reports for senior management.
+#### Risk Analyst | CyberBoxer.AI
+At CyberBoxer.AI, I analyzed complex insurance risks, transforming data into actionable premium and policy recommendations. My skills in location analysis and CAT modeling delivered comprehensive risk assessments, while my data-cleaning initiatives led to smoother underwriting processes and clearer insights.
 
-#### Summer Research Intern at [JIIT Noida](https://www.jiit.ac.in/):
-During a Summer Research Internship at JIIT Noida, I developed a machine learning-based loan prediction model that achieved an impressive 87% accuracy on a held-out test set. Additionally, I created an intuitive website providing users with loan approval predictions and detailed explanations, showcasing my ability to develop practical, user-friendly solutions.
+#### Assistant Systems Engineer | Tata Consultancy Services
+Partnered with clients in the BFSI domain to manage incident resolutions and large-scale data needs. My contributions included customized client reports, data accuracy improvements, and maintaining a 95% customer satisfaction rating with a 20% boost in operational efficiency.
+
+#### Summer Research Intern | JIIT Noida
+Developed a loan prediction model with 87% accuracy and created a user-friendly website interface for accessible predictions. This project refined my skills in bridging the gap between technical model building and real-world applications.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Publications 📑:
 
-### Generative AI and Large Scale Generative Based Conversational Systems (Chatbot Frameworks)[Link](https://www.ijaresm.com/generative-ai-and-large-scale-generative-based-conversational-systems-chatbot-frameworks)
+####  Generative AI and Large Scale Generative Based Conversational Systems (Chatbot Frameworks)[Link](https://www.ijaresm.com/generative-ai-and-large-scale-generative-based-conversational-systems-chatbot-frameworks)
 **International Journal of All Research Education & Scientific Methods, ISSN: 2455-6211, Volume 11, Issue 10, October 2023**  
 This publication explores the capabilities and applications of generative AI in developing large-scale conversational systems, providing insights into chatbot frameworks and their potential.
 
-### Smart Healthcare Systems Using Big Data Analytics: Opportunities, Challenges, and Future Directions [Link](https://tijer.org/tijer/papers/TIJER2310004.pdf)
+#### Smart Healthcare Systems Using Big Data Analytics: Opportunities, Challenges, and Future Directions [Link](https://tijer.org/tijer/papers/TIJER2310004.pdf)
 **TIJER - International Research Journal, ISSN:2349-9249, Vol.10, Issue 10, page no.a27-a31, October 2023**  
 In this paper, I examine the transformative role of big data analytics in healthcare, discussing opportunities, challenges, and future directions for smart healthcare systems.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Some Projects that I have worked on 💡:
+## Projects that I have worked on 💡:
 
-### Consumer & Marketing Analysis of F&B Firm 📊:[Dashboard Link](https://public.tableau.com/app/profile/ps7906/viz/CodeX_Dashboard/CodeXEnergyDrinkAnalysis)
+#### Consumer & Marketing Analysis of F&B Firm 📊:[Dashboard Link](https://public.tableau.com/app/profile/ps7906/viz/CodeX_Dashboard/CodeXEnergyDrinkAnalysis)
 I conducted an in-depth analysis of a 10,000-respondent survey from 10 cities to reveal crucial consumer insights. These insights drove the German beverage market strategy in India, resulting in a 20% increase in brand awareness and a 15% boost in market share within six months of product launch.
 
-### Employee Attrition Prediction through Regression Analysis 📉: [Link](https://colab.research.google.com/drive/1z8Nux9lEh8IChlROq_2Oo2lIT6GJ9Y3t#scrollTo=jf1TG9QodZAG)
+#### Employee Attrition Prediction through Regression Analysis 📉: [Link](https://colab.research.google.com/drive/1z8Nux9lEh8IChlROq_2Oo2lIT6GJ9Y3t#scrollTo=jf1TG9QodZAG)
 Utilizing Python, I cleaned, wrangled, and performed exploratory data analysis to prepare a robust employee dataset. I developed regression models, achieving 90% accuracy in predicting employee attrition, which helped in devising proactive retention strategies.
 
-### Startup Expansion Forecasting 📈: [ Dashboard Link](https://public.tableau.com/app/profile/ps7906/viz/StartupExpansion_16799468815810/Startupexpansionanalysisdashboard)
+#### Startup Expansion Forecasting 📈: [ Dashboard Link](https://public.tableau.com/app/profile/ps7906/viz/StartupExpansion_16799468815810/Startupexpansionanalysisdashboard)
 I developed a comprehensive dashboard for a startup in the garment cleaning services sector, improving decision-making and strategic planning capabilities. My analysis led to an 11.5% revenue increase in smaller cities and informed strategies for network expansion.
 
-### Consulting Firm Market Sizing Analysis 📊: [Dashboard Link](https://public.tableau.com/app/profile/ps7906/viz/PharmaMarketSizingDashboard/Dashboard1)
+#### Consulting Firm Market Sizing Analysis 📊: [Dashboard Link](https://public.tableau.com/app/profile/ps7906/viz/PharmaMarketSizingDashboard/Dashboard1)
 I supported a consulting firm's market sizing case for a new pharmaceutical product launch. By analyzing market data, I determined potential market size and growth. I also designed an interactive Tableau dashboard that facilitated data exploration and informed decision-making.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
