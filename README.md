@@ -16,8 +16,11 @@ With a foundation in Electronics & Communications Engineering, I bring both tech
 
 ## Professional Highlights 💡:
 
+#### Data Analyst | University of Cincinnati – Centre for Business Analytics
+At the University of Cincinnati’s Centre for Business Analytics, I analyzed customer data for a steel manufacturer and led diagnostics for a metal detector recommendation system. I also developed ETL pipelines with Python and Databricks to improve system efficiency. This role enhanced my skills in data analysis, visualization, and the power of clean data in driving business decisions. I loved transforming raw data into actionable insights, fueling my passion for data-driven problem-solving.
+
 #### Project Analyst | Neo Initiative
-In my current role, I collaborate with a minority-owned business to uncover insights from their sales data, developing models that highlight key trends and inform growth strategies. I automate SEO tracking to enhance engagement and create customer-focused forecasting tools that drive retention initiatives. My work is centered on empowering informed decision-making and fostering long-term growth.
+At the Neo Initiative, I collaborated with minority-owned small businesses in the Greater Cincinnati area to provide data-driven insights that supported their growth. I analyzed sales data to identify key trends and developed predictive models that informed business decisions. Additionally, I automated SEO tracking systems and created customer-focused forecasting tools to enhance engagement and retention. My work was focused on empowering business owners with actionable insights, driving sustainable growth, and promoting economic equity within underserved communities.
 
 #### Risk Analyst | CyberBoxer.AI
 At CyberBoxer.AI, I analyzed complex insurance risks, transforming data into actionable premium and policy recommendations. My skills in location analysis and CAT modeling delivered comprehensive risk assessments, while my data-cleaning initiatives led to smoother underwriting processes and clearer insights.
