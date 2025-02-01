@@ -19,7 +19,7 @@ With a foundation in Electronics & Communications Engineering, I bring both tech
 #### Data Analyst | University of Cincinnati – Centre for Business Analytics
 At the University of Cincinnati’s Centre for Business Analytics, I analyzed customer data for a steel manufacturer and led diagnostics for a metal detector recommendation system. I also developed ETL pipelines with Python and Databricks to improve system efficiency. This role enhanced my skills in data analysis, visualization, and the power of clean data in driving business decisions. I loved transforming raw data into actionable insights, fueling my passion for data-driven problem-solving.
 
-#### Project Analyst | Neo Initiative
+#### Analytics Consultant | Neo Initiative
 At the Neo Initiative, I collaborated with minority-owned small businesses in the Greater Cincinnati area to provide data-driven insights that supported their growth. I analyzed sales data to identify key trends and developed predictive models that informed business decisions. Additionally, I automated SEO tracking systems and created customer-focused forecasting tools to enhance engagement and retention. My work was focused on empowering business owners with actionable insights, driving sustainable growth, and promoting economic equity within underserved communities.
 
 #### Risk Analyst | CyberBoxer.AI
@@ -48,7 +48,7 @@ In this paper, I examine the transformative role of big data analytics in health
 
 ## Projects that I have worked on 💡:
 
-#### Consumer & Marketing Analysis of F&B Firm 📊:[Dashboard Link](https://public.tableau.com/app/profile/ps7906/viz/CodeX_Dashboard/CodeXEnergyDrinkAnalysis)
+#### Consumer & Marketing Analysis of F&B Firm 📊:[Dashboard Link](https://public.tableau.com/views/CodeX_Analysis/CodeXEnergyDrinkAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 I conducted an in-depth analysis of a 10,000-respondent survey from 10 cities to reveal crucial consumer insights. These insights drove the German beverage market strategy in India, resulting in a 20% increase in brand awareness and a 15% boost in market share within six months of product launch.
 
 #### Employee Attrition Prediction through Regression Analysis 📉: [Link](https://colab.research.google.com/drive/1z8Nux9lEh8IChlROq_2Oo2lIT6GJ9Y3t#scrollTo=jf1TG9QodZAG)
