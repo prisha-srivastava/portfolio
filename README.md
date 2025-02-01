@@ -48,7 +48,7 @@ In this paper, I examine the transformative role of big data analytics in health
 
 ## Projects that I have worked on 💡:
 
-#### Consumer & Marketing Analysis of F&B Firm 📊:[Dashboard Link](https://public.tableau.com/views/CodeX_Analysis/CodeXEnergyDrinkAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+#### Consumer & Marketing Analysis of F&B Firm 📊:[Dashboard Link](https://public.tableau.com/app/profile/ps7906/viz/CodeX_Analysis/CodeXEnergyDrinkAnalysis) 
 I conducted an in-depth analysis of a 10,000-respondent survey from 10 cities to reveal crucial consumer insights. These insights drove the German beverage market strategy in India, resulting in a 20% increase in brand awareness and a 15% boost in market share within six months of product launch.
 
 #### Employee Attrition Prediction through Regression Analysis 📉: [Link](https://colab.research.google.com/drive/1z8Nux9lEh8IChlROq_2Oo2lIT6GJ9Y3t#scrollTo=jf1TG9QodZAG)
