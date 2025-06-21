@@ -16,20 +16,20 @@ With a foundation in Electronics & Communications Engineering, I bring both tech
 
 ## Professional Highlights 💡:
 
-#### Data Analyst | University of Cincinnati – Centre for Business Analytics
+#### Data Analyst Intern | DHL Express (May'25- Present)
+I’m currently interning at DHL Express, where I dive into transforming complex data into clear, actionable insights for the clearance operations team. From designing SQL Server solutions to crafting Power BI dashboards, I help mid- and senior-level managers track key performance trends week by week and year by year. I also build Python tools to automate important metrics, making reporting faster and more reliable. This hands-on experience is sharpening my data skills and letting me contribute meaningfully to how a global logistics leader makes smarter decisions every day.
+
+#### Data Analyst | University of Cincinnati – Centre for Business Analytics(Sep'24 - May'25)
 At the University of Cincinnati’s Centre for Business Analytics, I analyzed customer data for a steel manufacturer and led diagnostics for a metal detector recommendation system. I also developed ETL pipelines with Python and Databricks to improve system efficiency. This role enhanced my skills in data analysis, visualization, and the power of clean data in driving business decisions. I loved transforming raw data into actionable insights, fueling my passion for data-driven problem-solving.
 
-#### Analytics Consultant | Neo Initiative
-At the Neo Initiative, I collaborated with minority-owned small businesses in the Greater Cincinnati area to provide data-driven insights that supported their growth. I analyzed sales data to identify key trends and developed predictive models that informed business decisions. Additionally, I automated SEO tracking systems and created customer-focused forecasting tools to enhance engagement and retention. My work was focused on empowering business owners with actionable insights, driving sustainable growth, and promoting economic equity within underserved communities.
+#### Analyst | Neo Initiative (Aug'24 - Dec'24)
+At the Neo Initiative, I collaborated with minority-owned small businesses in the Greater Cincinnati area to provide data-driven insights that supported their growth. I analyzed sales data to identify key trends and developed predictive models that informed business decisions. My work was focused on empowering business owners with actionable insights, driving sustainable growth, and promoting economic equity within underserved communities.
 
-#### Risk Analyst | CyberBoxer.AI
+#### Risk Analyst | CyberBoxer.AI (Year:2024)
 At CyberBoxer.AI, I analyzed complex insurance risks, transforming data into actionable premium and policy recommendations. My skills in location analysis and CAT modeling delivered comprehensive risk assessments, while my data-cleaning initiatives led to smoother underwriting processes and clearer insights.
 
-#### Assistant Systems Engineer | Tata Consultancy Services
+#### Assistant Systems Engineer | Tata Consultancy Services(Year: 2022- 2023)
 Partnered with clients in the BFSI domain to manage incident resolutions and large-scale data needs. My contributions included customized client reports, data accuracy improvements, and maintaining a 95% customer satisfaction rating with a 20% boost in operational efficiency.
-
-#### Summer Research Intern | JIIT Noida
-Developed a loan prediction model with 87% accuracy and created a user-friendly website interface for accessible predictions. This project refined my skills in bridging the gap between technical model building and real-world applications.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
